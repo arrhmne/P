@@ -7,7 +7,7 @@ node_modules
 ### Jekyll ###
 _site/
 .sass-cache/
-.jekyll-metadata
+.jekyll-metadata 
 
 ### OSX ###
 *.DS_Store
